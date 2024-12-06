@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h6 {
+ font-size: 2em;
+ color: blueviolet;
+}
+
+.contenu {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blue {
+    color: blue;
+}
